@@ -13,6 +13,7 @@ h1 {
   padding: 100px;
   margin: 0;
   margin-bottom: 0.5rem;
+  font-size: 3rem;
 }
 
 .image {
@@ -34,4 +35,8 @@ select {
 .equals {
   font-weight: bold;
   font-size: 2rem;
+}
+
+a {
+  color: rgb(168, 164, 164);
 }
