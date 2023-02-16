@@ -10,8 +10,8 @@ root.render(
       className="image"
       style={{
         backgroundImage: `url(${currencies})`,
-        backgroundRepeat: "no-epeat",
-        backgroundSize: "contain",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
         backgroundImage: `linear-gradient( rgba(8, 8, 37, 0.5), rgba(0, 15, 37, 0.7)), url("${currencies}")`,
       }}
     >
